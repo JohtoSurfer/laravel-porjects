@@ -7,7 +7,7 @@
     <title>Student log</title>
 </head>
 <body>
-    <h1>welcome students!</h1>
+    <p>log</p>
     
 </body>
 </html>
