@@ -22,6 +22,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/log', function () {
+    return view('log');
+});
+
 
 Auth::routes();
 
